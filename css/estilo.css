@@ -21,7 +21,7 @@ a:hover{
     background-color: #f99200;
 }
 
-#home .home a, #sobre .sobre a, #servico .servico a, #noticia .noticia a, #contato .contato a {
+#home #navegacao-vertical .home a, #sobre #navegacao-vertical .sobre a, #servicos #navegacao-vertical .servicos a, #noticias #navegacao-vertical .noticias a, #contato #navegacao-vertical .contato a {
     background-position: right bottom;
     color: white;
     background-color: #f99200;
